@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "nombre": "Procesador Ryzen 9",
+        "precio": 700000,
+        "img": "../img/ryzen2.jpg",
+        "cantidad": 1,
+        "stock": 18,
+        "detalle": "Un procesador AMD Ryzen 9 es una línea de unidades de procesamiento central (CPU) de alto rendimiento desarrollada por Advanced Micro Devices (AMD). Estos procesadores están diseñados para satisfacer las demandas de tareas intensivas en computación, como juegos de alta gama, edición de video, modelado 3D, renderizado y aplicaciones profesionales. Es muy importante."
+    },
+    {
+        "id": 2,
+        "nombre": "Placa Madre",
+        "precio": 150000,
+        "img": "../img/plaquita-mother.jpg",
+        "cantidad": 1,
+        "stock": 20,
+        "detalle": "es el componente fundamental de cualquier computadora. Es el núcleo que conecta y coordina todos los demás componentes, como el procesador, la memoria RAM, las tarjetas gráficas, las unidades de almacenamiento y otros periféricos. En esencia, la placa madre actúa como el cerebro y el sistema nervioso central de tu computadora, permitiendo que todos los componentes trabajen juntos de manera armoniosa."
+    },
+    {
+        "id": 3,
+        "nombre": "Ram",
+        "precio": 45000,
+        "img": "../img/ram.jpg",
+        "cantidad": 1,
+        "stock": 13,
+        "detalle": "La RAM (Random Access Memory) es una forma de memoria de acceso aleatorio utilizada en las computadoras y otros dispositivos electrónicos. Se trata de un componente de hardware crítico que desempeña un papel fundamental en el funcionamiento de un sistema informático al proporcionar almacenamiento temporal y de altas velocidades para datos y programas que se están ejecutando en ese oportuno momento."
+    },
+    {
+        "id": 4,
+        "nombre": "Tarjeta Grafica",
+        "precio": 1500000,
+        "img": "../img/tarjetagra.jpg",
+        "cantidad": 1,
+        "stock": 10,
+        "detalle": "Una tarjeta gráfica es un componente esencial en una computadora que se encarga de procesar y generar imágenes, gráficos y videos en una pantalla. Su función principal es acelerar el rendimiento gráfico de un sistema y permitir una experiencia visual más fluida y atractiva.En resumen, una tarjeta gráfica es un componente esencial en una computadora que se encarga de procesar gráficos y video, y mas."
+    }
+]
+
+
+
+
+
